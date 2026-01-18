@@ -1,0 +1,38 @@
+# --- Python Ignore ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# --- Unity Ignore (Cực quan trọng) ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+*.pidb.meta
+*.pdb
+*.mdb
+*.opentest
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.csproj
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db

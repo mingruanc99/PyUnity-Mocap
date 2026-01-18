@@ -1,0 +1,31 @@
+{
+    "name": "UnityMMDConverter",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine",
+        "UnityEditor",
+        "MMD",
+        "VRM",
+        "UniGLTF",
+        "Unity.Timeline"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "Unity",
+            "expression": "",
+            "define": "USE_VRM"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\CV_Unity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67F81452-94CE-F3DA-FE90-7DA20DB02030}|Assembly-CSharp-firstpass.csproj|m:\\cv_unity\\assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F81452-94CE-F3DA-FE90-7DA20DB02030}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\simpleactivatormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67F81452-94CE-F3DA-FE90-7DA20DB02030}|Assembly-CSharp-firstpass.csproj|m:\\cv_unity\\assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67F81452-94CE-F3DA-FE90-7DA20DB02030}|Assembly-CSharp-firstpass.csproj|solutionrelative:assets\\standard assets\\utility\\forcedreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C07F2F-9AD3-EF58-AC5D-052EDA960C8C}|Assembly-CSharp.csproj|M:\\CV_Unity\\assets\\unityscripts\\avatarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C07F2F-9AD3-EF58-AC5D-052EDA960C8C}|Assembly-CSharp.csproj|solutionrelative:assets\\unityscripts\\avatarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C07F2F-9AD3-EF58-AC5D-052EDA960C8C}|Assembly-CSharp.csproj|M:\\CV_Unity\\assets\\unityscripts\\cvreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C07F2F-9AD3-EF58-AC5D-052EDA960C8C}|Assembly-CSharp.csproj|solutionrelative:assets\\unityscripts\\cvreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\CV_Unity\\Assets\\UnityScripts\\AudioReceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\UnityScripts\\AudioReceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleActivatorMenu.cs",
+              "DocumentMoniker": "M:\\CV_Unity\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "ToolTip": "M:\\CV_Unity\\Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\SimpleActivatorMenu.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:38:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForcedReset.cs",
+              "DocumentMoniker": "M:\\CV_Unity\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "RelativeDocumentMoniker": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "ToolTip": "M:\\CV_Unity\\Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "RelativeToolTip": "Assets\\Standard Assets\\Utility\\ForcedReset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:37:13.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioReceiver.cs",
+              "DocumentMoniker": "M:\\CV_Unity\\Assets\\UnityScripts\\AudioReceiver.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityScripts\\AudioReceiver.cs",
+              "ToolTip": "M:\\CV_Unity\\Assets\\UnityScripts\\AudioReceiver.cs",
+              "RelativeToolTip": "Assets\\UnityScripts\\AudioReceiver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:23:08.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CVReceiver.cs",
+              "DocumentMoniker": "M:\\CV_Unity\\Assets\\UnityScripts\\CVReceiver.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityScripts\\CVReceiver.cs",
+              "ToolTip": "M:\\CV_Unity\\Assets\\UnityScripts\\CVReceiver.cs",
+              "RelativeToolTip": "Assets\\UnityScripts\\CVReceiver.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:21:17.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AvatarController.cs",
+              "DocumentMoniker": "M:\\CV_Unity\\Assets\\UnityScripts\\AvatarController.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityScripts\\AvatarController.cs",
+              "ToolTip": "M:\\CV_Unity\\Assets\\UnityScripts\\AvatarController.cs",
+              "RelativeToolTip": "Assets\\UnityScripts\\AvatarController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAYwCQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:03:52.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

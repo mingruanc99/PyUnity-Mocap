@@ -1,0 +1,11 @@
+
+# --- Python Ignore ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+*.log
+!important.log
+
