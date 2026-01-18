@@ -18,6 +18,7 @@ Vision Computing (Server)
 Language: Python 3.10
 Core Libraries: OpenCV, MediaPipe, NumPy
 ML/AI: Scikit-learn (for ASL Classifier), PyTorch (optional for deep learning extensions)
+
 Communication: UDP Socket (JSON payload)
 3D Rendering (Client)
 Engine: Unity 3D (URP/HDRP)
@@ -33,12 +34,9 @@ Assets: VRM/FBX Models (Alhaitham Model), Mixamo Animations.
 Step 1: Python Environment (Vision Server)
 Navigate to the code directory:
 
-Bash
-
 cd Code
-Install dependencies:
 
-Bash
+Install dependencies:
 
 pip install -r requirements.txt
 (Note: Ensure mediapipe, opencv-python, and scikit-learn are included).
@@ -57,15 +55,11 @@ Start Unity: Press the ▶ Play button in the Unity Editor. The avatar should be
 
 Start Python Server: Run the main script in your terminal:
 
-Bash
-
 python main.py
+
 Calibration:
-
 Sit directly in front of the webcam.
-
 Ensure your face and upper body are visible.
-
 The system will automatically detect landmarks and start driving the avatar.
 
 Interaction:
@@ -95,5 +89,4 @@ HoYoverse for the character design inspiration (Alhaitham). Disclaimer: This pro
 
 Mixamo for standard animation assets.
 
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
